@@ -1,0 +1,13 @@
+Date Completed: Oct 2010
+Language: C++  
+Development Environment: Dev C++	 	
+
+Simulation and graphical display in the console (using PDCurses.lib) of a 
+digital alarm clock. 
+
+When you start the clock, the time is not set yet so it flashes '12:00' until
+the time is set.
+
+Options to set alarm, snooze, turn alarm on/off, toggle military time, 
+set time zone, display two different time zones, toggle display of seconds, 
+and set date are also available.
