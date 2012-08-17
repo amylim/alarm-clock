@@ -1,7 +1,7 @@
 Date Completed: Oct 2010
 Language: C++  
 Development Environment: Dev C++	 	
-Important features: Contains graphic display (using PDCurses.lib) 
+Important features: Contains 2D graphics display (using PDCurses.lib) 
 
 Simulation and graphical display (in the console) of a digital alarm clock. 
 
